@@ -32,8 +32,11 @@ Navigate to the project directory and run:
 ### Start the Application
 - node index.js
 
-### Usage
+## Usage
 - The application will be running at http://localhost:3000.
 - Open your web browser and navigate to http://localhost:3000.
 - Enter the correct password (ILoveProgramming) to view the secret page.
+
+## Screenshots
+- <img width="372" alt="Screenshot 2024-01-08 at 12 33 39 PM" src="https://github.com/shovo4/Secrets/assets/58551093/348ad152-8be3-403f-a68f-6d79290964be">
 
